@@ -8,5 +8,4 @@ export const config: VercelConfig = {
       schedule: '1 0 * * *'
     },
   ],
-  bunVersion: '1.3.4'
 };
